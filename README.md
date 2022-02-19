@@ -6,5 +6,5 @@ Moringa School Week 4 IP
 The analysis was centred around understanding electric car usage, in the city of Paris, during the month of April 2018.
 ## Technologies Used
 Programming language: Python              
-Pyhton libraries: Numpy and Pandas
+Pyhton libraries: Numpy and Pandas  
 Software: Visual Studio Code
